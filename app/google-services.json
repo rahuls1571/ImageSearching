@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "838658453003",
+    "firebase_url": "https://image-64502.firebaseio.com",
+    "project_id": "image-64502",
+    "storage_bucket": "image-64502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838658453003:android:e81935fbbfbd0d213c210e",
+        "android_client_info": {
+          "package_name": "com.bls.imagesearching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838658453003-u1n5rd9oi7550t1c2mo35055ln0vaqtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkUh-ZQlZ7jLT1jWo9vYQNYI2jI5ioCVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838658453003-u1n5rd9oi7550t1c2mo35055ln0vaqtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
